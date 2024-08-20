@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nishantkb.com.np/](https://nishantkb.com.np/)
 
-- 📫 How to reach me **nishantschoolmail@gmail.com**
+- 📫 How to reach me **info@nishantkb.com.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
