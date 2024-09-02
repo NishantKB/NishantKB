@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantkb&theme=dark&show_icons=true&locale=en&layout=compact" alt="nishantkb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantkb&theme=dark" alt="nishantkb" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantkb&theme=dark&" alt="nishantkb" /></p>
