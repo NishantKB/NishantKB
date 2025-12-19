@@ -2,8 +2,6 @@
 <h3 align="center">A curious mind eager to grow 😊</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantkb&label=Profile%20views&color=0e75b6&style=flat" alt="nishantkb" /> </p>
 
-- 🔭 I’m currently working on [VSN Robotics](https://vsnroboticsclub.com/)
-
 - 👨‍💻 All of my projects are available at [https://nishantkb.com.np/](https://nishantkb.com.np/)
 
 - 📫 How to reach me **nishantkrbhandari@gmail.com**
