@@ -59,9 +59,19 @@
 
 
 <h3 align="left"> GitHub Stats:</h3>
-<p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nishantkb&theme=dark&hide_border=false" alt="Streak Stats" width="400" height="150" style="display:inline-block;margin-right:10px;" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nishantkb&layout=compact&hide_border=true&theme=dark" alt="Top Languages" width="400" height="150" style="display:inline-block;" />
+<p align="left" style="display:flex; gap:10px;">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=NishantKB&theme=dark&hide_border=true"
+    alt="Streak Stats"
+    width="400"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NishantKB&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages"
+    width="400"
+    height="150"
+  />
 </p>
 
 ---
